@@ -4,6 +4,3 @@
 [submodule "content"]
 	path = content
 	url = git@github.com:astrologr/content.git
-[submodule "static"]
-	path = static
-	url = git@github.com:astrologr/static.git
