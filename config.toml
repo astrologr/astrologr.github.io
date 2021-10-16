@@ -5,6 +5,8 @@ title = "Parsa Hugo | Personal Blog Template"
 theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
+publishDir = "docs"
+
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 
