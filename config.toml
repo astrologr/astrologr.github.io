@@ -9,7 +9,7 @@ publishDir = "docs"
 ignoreFiles = ['docs/\.git$']
 
 # google analytics
-googleAnalytics = "" # example : UA-123-45
+googleAnalytics = "G-0F8ZVM0TZC"
 
 # output
 [outputs]
